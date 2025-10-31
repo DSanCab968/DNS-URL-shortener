@@ -5,9 +5,9 @@
 
 
     // Configura tu dominio y tus credenciales de IONOS
-    $DOMAIN = "dscsystems.org"; // cámbialo por tu dominio real
-    $IONOS_API_USER = "dsancab968@ieszaidinvergeles.org";  // email de IONOS
-    $IONOS_API_PASS = "Papito_IONOS_41-67"; // contraseña o token
+    $DOMAIN = ""; // cámbialo por tu dominio real
+    $IONOS_API_USER = "";  // email de IONOS
+    $IONOS_API_PASS = ""; // contraseña o token
 
 
 
